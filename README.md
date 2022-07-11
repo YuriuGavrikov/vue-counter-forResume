@@ -1,1 +1,1 @@
-# vue-counter
+# https://yuriugavrikov.github.io/vue-counter/
